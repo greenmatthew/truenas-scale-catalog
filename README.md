@@ -1,4 +1,3 @@
-# catalog
+# TrueNAS Scale Catalog
 
-This is just the catalog.
-Please do not PR here as it's automatically generated
+This is a custom catalog for Helm chart apps for TrueNAS Scale.
